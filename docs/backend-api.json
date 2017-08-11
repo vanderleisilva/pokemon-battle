@@ -1,6 +1,7 @@
 [
 	{
 		"name": "PHP Lumen",
-		"url": "https://pokemon-battle-lumen.herokuapp.com"
+		"url": "https://pokemon-battle-lumen.herokuapp.com",
+		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-lumen"
 	}
 ]
