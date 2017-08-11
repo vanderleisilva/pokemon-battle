@@ -2,7 +2,7 @@
 This is a project that aims to demonstrate a simple Pokémon battle game, using a variety of frontend and backend technologies and then to highlight the pros and cons in our perspective of which one.
 
 ## Live demo
-[Pokemon Battle using VueJS and PHP Lumen](https://pokemon-battlevue.herokuapp.com/)
+[Pokemon Battle using VueJS and PHP Lumen](https://pokemon-battle-vue.herokuapp.com/)
 
 ## API structure
 
@@ -144,23 +144,3 @@ This is a project that aims to demonstrate a simple Pokémon battle game, using 
 
 ### References
 [PokeApi](http://pokeapi.co) and [Bulbapedia](https://bulbapedia.bulbagarden.net)
-
-### Local Configuration
-
-#### Frontend 
-
-```
-npm install
-npm run dev
-```
-
-#### Backend
-
-```
-composer install
-php -S localhost:8000 -t public
-```
-
-#### Notes
-It should only be used in a testing environment, because CORS is allowed for
-`http://localhost:8080` (where frontend will run)
