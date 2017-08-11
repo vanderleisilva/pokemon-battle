@@ -1,5 +1,8 @@
-# pokemon-battle-vue-php
-A simple Pokémon battle game made with VueJS and PHP (Lumen)
+# pokemon-battle
+This is a project that aims to demonstrate a simple Pokémon battle game, using a variety of frontend and backend technologies and then to highlight the pros and cons in our perspective of which one.
+
+## Live demo
+[Pokemon Battle using VueJS and PHP Lumen](https://pokemon-battlevue.herokuapp.com/)
 
 ## API structure
 
