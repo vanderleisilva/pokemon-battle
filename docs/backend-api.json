@@ -3,5 +3,10 @@
 		"name": "PHP Lumen",
 		"url": "https://pokemon-battle-lumen.herokuapp.com",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-lumen"
+	},
+	{
+		"name": "Rails",
+		"url": "http://pokemon-railsapp.azkhx3mp2q.us-east-2.elasticbeanstalk.com",
+		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-rails"
 	}
 ]
