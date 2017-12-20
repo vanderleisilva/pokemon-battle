@@ -6,7 +6,7 @@
 	},
 	{
 		"name": "Rails",
-		"url": "http://pokemon-railsapp.azkhx3mp2q.us-east-2.elasticbeanstalk.com",
+		"url": "https://pokemon-railsapp.us-east-2.elasticbeanstalk.com",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-rails"
 	}
 ]
