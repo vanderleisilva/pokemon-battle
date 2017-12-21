@@ -3,5 +3,10 @@
 		"name": "VueJS",
 		"url": "https://pokemon-battle-vue.herokuapp.com",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-vue"
+	},
+	{
+		"name": "ReactJS",
+		"url": "https://pokemon-battle-react.herokuapp.com",
+		"repo": "https://github.com/vanderleisilva/pokemon-battle-react"
 	}
 ]
