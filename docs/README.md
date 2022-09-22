@@ -2,7 +2,7 @@
 This is a project that aims to demonstrate a simple Pokémon battle game, using a variety of frontend and backend technologies and then to highlight the pros and cons in our perspective.
 
 ## Live demo
-[Pokemon Battle using VueJS](https://pokemon-battle-vue.herokuapp.com/) or [using ReactJS](https://pokemon-battle-react.herokuapp.com/)
+[Pokemon Battle using VueJS](https://pokemon-battle-vue.netlify.app) or [using ReactJS](https://pokemon-battle-react.herokuapp.com/)
 
 * Complete list of available frontend projects [click here](https://vanderleisilva.github.io/pokemon-battle/frontend-api.json);
 * Complete list of available backend projects [click here](https://vanderleisilva.github.io/pokemon-battle/backend-api.json);
