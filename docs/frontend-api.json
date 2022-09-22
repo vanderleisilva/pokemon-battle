@@ -1,7 +1,7 @@
 [
 	{
 		"name": "VueJS",
-		"url": "https://pokemon-battle-vue.herokuapp.com",
+		"url": "https://pokemon-battle-vue.netlify.app",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-vue"
 	},
 	{

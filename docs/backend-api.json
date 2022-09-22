@@ -1,12 +1,12 @@
 [
 	{
 		"name": "PHP Lumen",
-		"url": "https://pokemon-battle-lumen.herokuapp.com",
+		"url": "https://pokemon-battle-lumen.up.railway.app",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-lumen"
 	},
 	{
 		"name": "Rails",
-		"url": "https://pokemon-battle-rails.herokuapp.com",
+		"url": "https://pokemon-battle-rails.up.railway.app",
 		"repo": "https://github.com/rafaelmonteiro/pokemon-battle-rails"
 	}
 ]
